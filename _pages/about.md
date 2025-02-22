@@ -11,8 +11,11 @@ This is the front page of a website that is powered by the [Academic Pages templ
 
 荣誉奖项
 ======
-2024年数学建模国赛国家三等奖
-2024年蓝桥杯Java组B组国家三等奖
+蓝桥杯C/C++组B组国家一等奖<br>
+数学建模国赛国家二等奖<br>
+数学建模美赛奖F奖<br>
+蓝桥杯Java组B组国家三等奖<br>
+
 
 荣誉奖项
 ======
